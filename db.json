@@ -1,9 +1,173 @@
-
 {
-    "provinsi":[
+    "provinsi": [{
+            "id": "11",
+            "nama": "Aceh",
+            "image-url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Meuseujid_Raya_Baiturrahman%2C_Aceh.jpg"
+        },
         {
-            "id": 1,
-            "nama_provinsi": "Aceh"
+            "id": "12",
+            "nama": "Sumatera Utara",
+            "image-url": "https://wallpapershome.com/images/wallpapers/danau-toba-3840x2160-4k-hd-wallpaper-indonesia-sailing-ship-rocks-sea-1044.jpg"
+        },
+        {
+            "id": "13",
+            "nama": "Sumatera Barat",
+            "image-url": "https://getlost.id/wp-content/uploads/2018/06/Masjid-Raya-Sumatera-Barat.jpg"
+        },
+        {
+            "id": "14",
+            "nama": "Riau",
+            "image-url": "https://i.ytimg.com/vi/Dxynma0BNkI/hqdefault.jpg"
+        },
+        {
+            "id": "15",
+            "nama": "Jambi",
+            "image-url": "https://cadventura.com/wp-content/uploads/2019/03/A-IMG_4636_1280px.jpg"
+        },
+        {
+            "id": "16",
+            "nama": "Sumatera Selatan",
+            "image-url": "https://upload.wikimedia.org/wikipedia/id/thumb/5/50/Ampera-baru.jpg/1200px-Ampera-baru.jpg"
+        },
+        {
+            "id": "17",
+            "nama": "Bengkulu",
+            "image-url": "https://dimensilogistic.co.id/wp-content/uploads/2019/12/bengkulu.jpg"
+        },
+        {
+            "id": "18",
+            "nama": "Lampung",
+            "image-url": "https://i.ytimg.com/vi/yK3GJ5vLs1A/maxresdefault.jpg"
+        },
+        {
+            "id": "19",
+            "nama": "Kepulauan Bangka Belitung",
+            "image-url": "https://www.travelapak.id/wp-content/uploads/2018/04/1-2.jpg"
+        },
+        {
+            "id": "21",
+            "nama": "Kepulauan Riau",
+            "image-url": "https://4.bp.blogspot.com/-TUl6B8gWFdQ/Waa5-KQENMI/AAAAAAAAFMY/Qi-IPytOV64lSUqxbThBnLYnShcBHpvVgCLcBGAs/s1600/Pulau%2BBawah%2BAnamas.jpg"
+        },
+        {
+            "id": "31",
+            "nama": "DKI Jakarta",
+            "image-url": "https://muslimobsession.com/wp-content/uploads/2018/12/Monas-2.jpg"
+        },
+        {
+            "id": "32",
+            "nama": "Jawa Barat",
+            "image-url": "https://tempatasik.com/wp-content/uploads/2019/09/harga-tiket-masuk-ciwidey-valley.jpg"
+        },
+        {
+            "id": "33",
+            "nama": "Jawa Tengah",
+            "image-url": "https://cekajah.com/wp-content/uploads/2018/01/wisata-jawa-tengah.jpg"
+        },
+        {
+            "id": "34",
+            "nama": "DI Yogyakarta",
+            "image-url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kraton_Yogyakarta_Pagelaran.jpg/1200px-Kraton_Yogyakarta_Pagelaran.jpg"
+        },
+        {
+            "id": "35",
+            "nama": "Jawa Timur",
+            "image-url": "https://kelilingnusantara.com/wp-content/uploads/2017/05/Ikon-kota-Surabaya.jpg"
+        },
+        {
+            "id": "36",
+            "nama": "Banten",
+            "image-url": "https://picture.triptrus.com/image/2019/03/wacana.co-masjid-agung-banten-1170x779.jpg"
+        },
+        {
+            "id": "51",
+            "nama": "Bali",
+            "image-url": "https://www.gurupendidikan.co.id/wp-content/uploads/2019/01/Suku-Bali.jpg"
+        },
+        {
+            "id": "52",
+            "nama": "Nusa Tenggara Barat",
+            "image-url": "https://paketwisatamurahlombok.com/wp-content/uploads/2018/06/Islamic-Center-Mataram-1.jpg"
+        },
+        {
+            "id": "53",
+            "nama": "Nusa Tenggara Timur",
+            "image-url": "https://2.bp.blogspot.com/-fAKNSEfzwnw/Vtrv9aa1X7I/AAAAAAAAAeI/1umMfW9fZ98/s1600/31.jpeg"
+        },
+        {
+            "id": "61",
+            "nama": "Kalimantan Barat",
+            "image-url": "https://backpackerjakarta.com/wp-content/uploads/2016/10/TUGU-KHATULISTIWA-news.pontianakite.jpg"
+        },
+        {
+            "id": "62",
+            "nama": "Kalimantan Tengah",
+            "image-url": "https://ksmtour.com/media/images/articles10/istana-kuning-kalimantan-tengah.jpg"
+        },
+        {
+            "id": "63",
+            "nama": "Kalimantan Selatan",
+            "image-url": "https://assets-a1.kompasiana.com/items/album/2018/11/28/bekantan-5bfd9fd4bde57549d62d3286.jpg"
+        },
+        {
+            "id": "64",
+            "nama": "Kalimantan Timur",
+            "image-url": "https://sifataru.atrbpn.go.id/images/ksn/28.jpg"
+        },
+        {
+            "id": "65",
+            "nama": "Kalimantan Utara",
+            "image-url": "https://cdn2.tstatic.net/kaltim/foto/bank/images/tanjung-selor_taman-enggang_20160217_174042.jpg"
+        },
+        {
+            "id": "71",
+            "nama": "Sulawesi Utara",
+            "image-url": "https://lh3.googleusercontent.com/proxy/rGdtVG_CfmaA_pxxo9pM1G0h5kiu8Sk777cA8b6xhauYBJfURG_3XtbToil_uI-HIUp7Oi0jHudK8eRFmWOQViJ-T26wdV3Och30d_VuDjgT3QSt94vG4gjTgFk"
+        },
+        {
+            "id": "72",
+            "nama": "Sulawasi Tengah",
+            "image-url": "https://ksmtour.com/media/images/articles8/pantai-tanjung-karang-sulawesi-tengah.jpg"
+        },
+        {
+            "id": "73",
+            "nama": "Sulawasi Selatan",
+            "image-url": "https://media.travelingyuk.com/wp-content/uploads/2019/02/Didesain-oleh-Ridwan-Kamil-via-Instagram-1024x768.jpg"
+        },
+        {
+            "id": "74",
+            "nama": "Sulawasi Tenggara",
+            "image-url": "https://lh3.googleusercontent.com/proxy/VjSxKs28w-hyfOjVrgs2z1iLSwZgN1_pXMeNbdV4LMtJFKe6E3LBEgl48kSKvBt3pszwyS-8NYcchQQVGvgARyTQqg4AwOraHCqs6w5HUYbNI_w-pHyC-R0hkZrfAnrydXYHrJC2p9ZI"
+        },
+        {
+            "id": "75",
+            "nama": "Gorontalo",
+            "image-url": "https://ksmtour.com/media/images/articles22/Sarondeisland.jpg"
+        },
+        {
+            "id": "76",
+            "nama": "Sulawasi Barat",
+            "image-url": "https://kalimat.id/wp-content/uploads/2019/02/Rumah-Adat-Sulawesi-Barat.jpg"
+        },
+        {
+            "id": "81",
+            "nama": "Maluku",
+            "image-url": ""
+        },
+        {
+            "id": "82",
+            "nama": "Maluku Utara",
+            "image-url": "https://ksmtour.com/media/images/articles/PANTAI-ORA.jpg"
+        },
+        {
+            "id": "91",
+            "nama": "Papua Barat",
+            "image-url": "https://i.ytimg.com/vi/CPly5QVkWwE/maxresdefault.jpg"
+        },
+        {
+            "id": "94",
+            "nama": "Papua",
+            "image-url": "https://blog.pigijo.com/wp-content/uploads/2019/11/e365e8db8b09-1.jpg"
         }
     ]
 }
