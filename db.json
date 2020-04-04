@@ -40,11 +40,6 @@
             "image-url": "https://i.ytimg.com/vi/yK3GJ5vLs1A/maxresdefault.jpg"
         },
         {
-            "id": "19",
-            "nama": "Kepulauan Bangka Belitung",
-            "image-url": "https://www.travelapak.id/wp-content/uploads/2018/04/1-2.jpg"
-        },
-        {
             "id": "21",
             "nama": "Kepulauan Riau",
             "image-url": "https://4.bp.blogspot.com/-TUl6B8gWFdQ/Waa5-KQENMI/AAAAAAAAFMY/Qi-IPytOV64lSUqxbThBnLYnShcBHpvVgCLcBGAs/s1600/Pulau%2BBawah%2BAnamas.jpg"
@@ -115,11 +110,6 @@
             "image-url": "https://sifataru.atrbpn.go.id/images/ksn/28.jpg"
         },
         {
-            "id": "65",
-            "nama": "Kalimantan Utara",
-            "image-url": "https://cdn2.tstatic.net/kaltim/foto/bank/images/tanjung-selor_taman-enggang_20160217_174042.jpg"
-        },
-        {
             "id": "71",
             "nama": "Sulawesi Utara",
             "image-url": "https://lh3.googleusercontent.com/proxy/rGdtVG_CfmaA_pxxo9pM1G0h5kiu8Sk777cA8b6xhauYBJfURG_3XtbToil_uI-HIUp7Oi0jHudK8eRFmWOQViJ-T26wdV3Och30d_VuDjgT3QSt94vG4gjTgFk"
@@ -155,19 +145,9 @@
             "image-url": ""
         },
         {
-            "id": "82",
-            "nama": "Maluku Utara",
-            "image-url": "https://ksmtour.com/media/images/articles/PANTAI-ORA.jpg"
-        },
-        {
             "id": "91",
             "nama": "Papua Barat",
             "image-url": "https://i.ytimg.com/vi/CPly5QVkWwE/maxresdefault.jpg"
-        },
-        {
-            "id": "94",
-            "nama": "Papua",
-            "image-url": "https://blog.pigijo.com/wp-content/uploads/2019/11/e365e8db8b09-1.jpg"
         }
     ]
 }
